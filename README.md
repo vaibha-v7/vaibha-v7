@@ -29,4 +29,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vaibha-v7&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6oo7nq97vvoq6rdqmmav2gdi2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6oo7nq97vvoq6rdqmmav2gdi2&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
