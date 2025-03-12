@@ -31,6 +31,12 @@
 
 ###
 
+###
+
+<h1 align="left">🚀 "Code is like humor. When you have to explain it, it’s bad."</h1>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/6oo7nq97vvoq6rdqmmav2gdi2">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=6oo7nq97vvoq6rdqmmav2gdi2&count=5&unique=true" alt="Spotify recently played"  />
